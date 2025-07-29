@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Pytest cache
+.pytest_cache/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal or assignment files (exclude from GitHub)
+Preparation.docx
+Questions.docx
+Given_README.md
+Assumptions.md
